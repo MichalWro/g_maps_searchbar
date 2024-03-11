@@ -1,0 +1,3 @@
+Reporter was changed from default html to line for quicker execution. To reverse it change it in line 24 in \g_maps_searchbar\playwright.config.js
+Tests are grouped in test suite for oportunity to launch them at once.
+Video files for each test are recorded, but all videos are removed from successful test runs.
